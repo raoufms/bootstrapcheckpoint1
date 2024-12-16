@@ -1,0 +1,15 @@
+.hero {
+    background: url(img/image_about-bg.png) no-repeat center center/cover;
+    height: 400px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.menu-card img {
+    height: 300px;
+    object-fit: cover;
+}
